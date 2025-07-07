@@ -1,6 +1,6 @@
 # QRCode-MySQL-ControlID Reader
 
-This application aims to control the exit of vehicles and people through barcode or QR Code reading. It was initially developed to validate invoice access keys and integrates with Control ID devices and a MySQL database.
+This application aims to control the exit of vehicles and people through barcode or QR Code reading. It was initially developed to validate invoice access keys and integrates with Control ID devices and a MySQL database (version 2.0) or SQLITE3 database (version 1.0).
 
 ## Technologies Used
 
