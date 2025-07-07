@@ -1,6 +1,6 @@
 # Leitura-QRCODE-MySQL-ControlID
 
-Esta aplicação tem como objetivo controlar a saída de veículos e pessoas por meio da leitura de códigos de barras ou QR Codes. Inicialmente, foi desenvolvida para validar chaves de acesso de notas fiscais, integrando-se com equipamentos da Control ID e um banco de dados MySQL.
+Esta aplicação tem como objetivo controlar a saída de veículos e pessoas por meio da leitura de códigos de barras ou QR Codes. Inicialmente, foi desenvolvida para validar chaves de acesso de notas fiscais, integrando-se com equipamentos da Control ID e um banco de dados MySQL(versão 2.0) ou local SQLITE3(versão 1.0).
 
 ## Tecnologias Utilizadas
 
